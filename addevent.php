@@ -32,7 +32,7 @@
          <div class="row">
             <div class="col-md-6">
                <h4>
-                  <img src="http://placehold.it/300x100" alt="">
+                  <a href="index.php"><img src="http://placehold.it/300x100" alt=""></a>
                </h4>
             </div>
             <div class="col-md-3 pull-right" style="margin-top: 30px;">
