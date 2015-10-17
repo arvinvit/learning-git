@@ -39,7 +39,8 @@
                <div class="input-group">
                   <input type="text" class="form-control" placeholder="Search for Journals">
                   <div class="input-group-addon btn btn-default"><strong>SEARCH</strong></div>
-               </div>                 
+               </div>
+               <h1>Testing Conflicts</h1>                
             </div>
          </div>
       </div>
@@ -48,6 +49,7 @@
       <div class="row">
          <div class="col-lg-4">
             <div class="demo-block">
+               <h2>Hi</h2>
                <div><a href="addevent.php"><strong>Add Event</strong></a></div>
                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos magni veniam, saepe animi blanditiis quaerat vitae excepturi, tempore nobis necessitatibus eligendi ipsam doloremque alias sunt deleniti officiis assumenda placeat, quae.</p>
             </div>
